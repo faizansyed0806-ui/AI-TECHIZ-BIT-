@@ -1,0 +1,407 @@
+{
+  "input": {
+    "tdee": 2400,
+    "goal": "weight_loss",
+    "calorie_target": 1900,
+    "macro_percentages": {
+      "protein": 0.4,
+      "carbs": 0.3,
+      "fat": 0.3
+    },
+    "macro_targets_g_per_day": {
+      "protein_g": 190,
+      "carbs_g": 143,
+      "fat_g": 63
+    },
+    "exclusions": [
+      "vegetarian"
+    ]
+  },
+  "days": [
+    {
+      "meals": [
+        {
+          "id": "m2",
+          "name": "Greek yogurt + mixed berries + granola",
+          "calories": 380,
+          "protein_g": 20,
+          "carbs_g": 45,
+          "fat_g": 10,
+          "tags": [
+            "vegetarian"
+          ]
+        },
+        {
+          "id": "m1",
+          "name": "Oatmeal with banana & peanut butter",
+          "calories": 420,
+          "protein_g": 14,
+          "carbs_g": 55,
+          "fat_g": 15,
+          "tags": [
+            "vegetarian"
+          ]
+        },
+        {
+          "id": "m10",
+          "name": "Chickpea salad with olive oil dressing",
+          "calories": 420,
+          "protein_g": 15,
+          "carbs_g": 48,
+          "fat_g": 18,
+          "tags": [
+            "vegetarian",
+            "dairy_free"
+          ]
+        },
+        {
+          "id": "m8",
+          "name": "Veggie stir-fry with tofu + rice",
+          "calories": 500,
+          "protein_g": 20,
+          "carbs_g": 70,
+          "fat_g": 15,
+          "tags": [
+            "vegetarian"
+          ]
+        }
+      ],
+      "macros": {
+        "calories": 1720,
+        "protein_g": 69,
+        "carbs_g": 218,
+        "fat_g": 58
+      }
+    },
+    {
+      "meals": [
+        {
+          "id": "m2",
+          "name": "Greek yogurt + mixed berries + granola",
+          "calories": 380,
+          "protein_g": 20,
+          "carbs_g": 45,
+          "fat_g": 10,
+          "tags": [
+            "vegetarian"
+          ]
+        },
+        {
+          "id": "m1",
+          "name": "Oatmeal with banana & peanut butter",
+          "calories": 420,
+          "protein_g": 14,
+          "carbs_g": 55,
+          "fat_g": 15,
+          "tags": [
+            "vegetarian"
+          ]
+        },
+        {
+          "id": "m10",
+          "name": "Chickpea salad with olive oil dressing",
+          "calories": 420,
+          "protein_g": 15,
+          "carbs_g": 48,
+          "fat_g": 18,
+          "tags": [
+            "vegetarian",
+            "dairy_free"
+          ]
+        },
+        {
+          "id": "m8",
+          "name": "Veggie stir-fry with tofu + rice",
+          "calories": 500,
+          "protein_g": 20,
+          "carbs_g": 70,
+          "fat_g": 15,
+          "tags": [
+            "vegetarian"
+          ]
+        }
+      ],
+      "macros": {
+        "calories": 1720,
+        "protein_g": 69,
+        "carbs_g": 218,
+        "fat_g": 58
+      }
+    },
+    {
+      "meals": [
+        {
+          "id": "m2",
+          "name": "Greek yogurt + mixed berries + granola",
+          "calories": 380,
+          "protein_g": 20,
+          "carbs_g": 45,
+          "fat_g": 10,
+          "tags": [
+            "vegetarian"
+          ]
+        },
+        {
+          "id": "m1",
+          "name": "Oatmeal with banana & peanut butter",
+          "calories": 420,
+          "protein_g": 14,
+          "carbs_g": 55,
+          "fat_g": 15,
+          "tags": [
+            "vegetarian"
+          ]
+        },
+        {
+          "id": "m10",
+          "name": "Chickpea salad with olive oil dressing",
+          "calories": 420,
+          "protein_g": 15,
+          "carbs_g": 48,
+          "fat_g": 18,
+          "tags": [
+            "vegetarian",
+            "dairy_free"
+          ]
+        },
+        {
+          "id": "m8",
+          "name": "Veggie stir-fry with tofu + rice",
+          "calories": 500,
+          "protein_g": 20,
+          "carbs_g": 70,
+          "fat_g": 15,
+          "tags": [
+            "vegetarian"
+          ]
+        }
+      ],
+      "macros": {
+        "calories": 1720,
+        "protein_g": 69,
+        "carbs_g": 218,
+        "fat_g": 58
+      }
+    },
+    {
+      "meals": [
+        {
+          "id": "m2",
+          "name": "Greek yogurt + mixed berries + granola",
+          "calories": 380,
+          "protein_g": 20,
+          "carbs_g": 45,
+          "fat_g": 10,
+          "tags": [
+            "vegetarian"
+          ]
+        },
+        {
+          "id": "m1",
+          "name": "Oatmeal with banana & peanut butter",
+          "calories": 420,
+          "protein_g": 14,
+          "carbs_g": 55,
+          "fat_g": 15,
+          "tags": [
+            "vegetarian"
+          ]
+        },
+        {
+          "id": "m10",
+          "name": "Chickpea salad with olive oil dressing",
+          "calories": 420,
+          "protein_g": 15,
+          "carbs_g": 48,
+          "fat_g": 18,
+          "tags": [
+            "vegetarian",
+            "dairy_free"
+          ]
+        },
+        {
+          "id": "m8",
+          "name": "Veggie stir-fry with tofu + rice",
+          "calories": 500,
+          "protein_g": 20,
+          "carbs_g": 70,
+          "fat_g": 15,
+          "tags": [
+            "vegetarian"
+          ]
+        }
+      ],
+      "macros": {
+        "calories": 1720,
+        "protein_g": 69,
+        "carbs_g": 218,
+        "fat_g": 58
+      }
+    },
+    {
+      "meals": [
+        {
+          "id": "m2",
+          "name": "Greek yogurt + mixed berries + granola",
+          "calories": 380,
+          "protein_g": 20,
+          "carbs_g": 45,
+          "fat_g": 10,
+          "tags": [
+            "vegetarian"
+          ]
+        },
+        {
+          "id": "m1",
+          "name": "Oatmeal with banana & peanut butter",
+          "calories": 420,
+          "protein_g": 14,
+          "carbs_g": 55,
+          "fat_g": 15,
+          "tags": [
+            "vegetarian"
+          ]
+        },
+        {
+          "id": "m10",
+          "name": "Chickpea salad with olive oil dressing",
+          "calories": 420,
+          "protein_g": 15,
+          "carbs_g": 48,
+          "fat_g": 18,
+          "tags": [
+            "vegetarian",
+            "dairy_free"
+          ]
+        },
+        {
+          "id": "m8",
+          "name": "Veggie stir-fry with tofu + rice",
+          "calories": 500,
+          "protein_g": 20,
+          "carbs_g": 70,
+          "fat_g": 15,
+          "tags": [
+            "vegetarian"
+          ]
+        }
+      ],
+      "macros": {
+        "calories": 1720,
+        "protein_g": 69,
+        "carbs_g": 218,
+        "fat_g": 58
+      }
+    },
+    {
+      "meals": [
+        {
+          "id": "m2",
+          "name": "Greek yogurt + mixed berries + granola",
+          "calories": 380,
+          "protein_g": 20,
+          "carbs_g": 45,
+          "fat_g": 10,
+          "tags": [
+            "vegetarian"
+          ]
+        },
+        {
+          "id": "m1",
+          "name": "Oatmeal with banana & peanut butter",
+          "calories": 420,
+          "protein_g": 14,
+          "carbs_g": 55,
+          "fat_g": 15,
+          "tags": [
+            "vegetarian"
+          ]
+        },
+        {
+          "id": "m10",
+          "name": "Chickpea salad with olive oil dressing",
+          "calories": 420,
+          "protein_g": 15,
+          "carbs_g": 48,
+          "fat_g": 18,
+          "tags": [
+            "vegetarian",
+            "dairy_free"
+          ]
+        },
+        {
+          "id": "m8",
+          "name": "Veggie stir-fry with tofu + rice",
+          "calories": 500,
+          "protein_g": 20,
+          "carbs_g": 70,
+          "fat_g": 15,
+          "tags": [
+            "vegetarian"
+          ]
+        }
+      ],
+      "macros": {
+        "calories": 1720,
+        "protein_g": 69,
+        "carbs_g": 218,
+        "fat_g": 58
+      }
+    },
+    {
+      "meals": [
+        {
+          "id": "m2",
+          "name": "Greek yogurt + mixed berries + granola",
+          "calories": 380,
+          "protein_g": 20,
+          "carbs_g": 45,
+          "fat_g": 10,
+          "tags": [
+            "vegetarian"
+          ]
+        },
+        {
+          "id": "m1",
+          "name": "Oatmeal with banana & peanut butter",
+          "calories": 420,
+          "protein_g": 14,
+          "carbs_g": 55,
+          "fat_g": 15,
+          "tags": [
+            "vegetarian"
+          ]
+        },
+        {
+          "id": "m10",
+          "name": "Chickpea salad with olive oil dressing",
+          "calories": 420,
+          "protein_g": 15,
+          "carbs_g": 48,
+          "fat_g": 18,
+          "tags": [
+            "vegetarian",
+            "dairy_free"
+          ]
+        },
+        {
+          "id": "m8",
+          "name": "Veggie stir-fry with tofu + rice",
+          "calories": 500,
+          "protein_g": 20,
+          "carbs_g": 70,
+          "fat_g": 15,
+          "tags": [
+            "vegetarian"
+          ]
+        }
+      ],
+      "macros": {
+        "calories": 1720,
+        "protein_g": 69,
+        "carbs_g": 218,
+        "fat_g": 58
+      }
+    }
+  ]
+}
