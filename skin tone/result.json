@@ -1,0 +1,18 @@
+{
+  "image_path": "pic.jpeg",
+  "mode": "center_patch",
+  "mean_rgb": {
+    "r": 137,
+    "g": 97,
+    "b": 85
+  },
+  "luminance": 104.64,
+  "skin_tone": "Deep",
+  "undertone": "Warm",
+  "recommendations": {
+    "foundation_base": "Yellow/Golden base",
+    "foundation_depth": "Deep shades",
+    "lipstick_recommendation": "Deep berries, plums, bold reds",
+    "note": "General guidelines \u2014 test swatches under neutral daylight."
+  }
+}
